@@ -2,11 +2,17 @@
 
 # Requirements (Python 3)
 > bs4
+
 > requests
+
 > urllib3
+
 > shutil
+
 > os
+
 > json
+
 > time
 
 Run ``` python code.py ```
